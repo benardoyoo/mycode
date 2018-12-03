@@ -1,8 +1,11 @@
 # mycode
+
 Learning to track my code
+
 # mycode
 
 I am new to Python and trying to learn coding
+I want to learn how to version control projects with git
 
 ## Getting Started
 
